@@ -11,7 +11,7 @@ class Places {
     //mock data : an array of records
     protected $data = [
         '1' => [
-            'id' => 30,
+            'id' => 1,
             'name' => 'Stephen Curry',
             'Country' => 'USA',
             'description' => 'Accurate, quick shooter, good at stealing and shooting 3-pointers',
@@ -19,7 +19,7 @@ class Places {
             'image' => '30.png',
         ],
         '2' => [
-            'id' => 11,
+            'id' => 2,
             'name' => 'Klay Thompson',
              'Country' => 'USA',
             'description' => 'Top three point shooting and defense',
@@ -27,7 +27,7 @@ class Places {
             'image' => '11.png',
         ],
         '3' => [
-            'id' => 22,
+            'id' => 3,
             'name' => 'Andrew Wiggins',
              'Country' => 'Canada',
             'description' => 'Good young player, good physical quality',
@@ -35,7 +35,7 @@ class Places {
             'image' => '22.png',
         ],
         '4' => [
-            'id' => 23,
+            'id' => 4,
             'name' => 'Draymond Green',
              'Country' => 'USA',
             'description' => 'Excellent defense and excellent team spirit',
@@ -43,7 +43,7 @@ class Places {
             'image' => '23.png',
         ],
         '5' => [
-            'id' => 32,
+            'id' => 5,
             'name' => 'Marquese Chriss',
              'Country' => 'USA',
             'description' => 'Excellent rebounding and under the basket',
